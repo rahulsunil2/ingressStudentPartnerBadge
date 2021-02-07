@@ -157,7 +157,7 @@ const BadgeModule = () => {
                 pauseOnHover
                 style={{ width: "200px", margin: "auto" }}
             />
-            <header>Ingress Student Partner Badge Maker</header>
+            <header>Ingress Mentor Badge Maker</header>
 
             <div className="main-container">
                 <div className="input-panel">
