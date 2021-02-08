@@ -4,7 +4,7 @@ import "react-toastify/dist/ReactToastify.css";
 import "@tensorflow/tfjs-backend-cpu";
 import ReactCrop from "react-image-crop";
 import "react-image-crop/dist/ReactCrop.css";
-import frame from "../frame-light.png";
+import frame from "../frame.png";
 import dumb_face from "../face-placeholder.png";
 import logo from "../ingressHackathon.png";
 
@@ -157,7 +157,7 @@ const BadgeModule = () => {
                 pauseOnHover
                 style={{ width: "200px", margin: "auto" }}
             />
-            <header>Ingress Student Partner Badge Maker</header>
+            <header>Ingress Badge Maker</header>
 
             <div className="main-container">
                 <div className="input-panel">
