@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@tensorflow-models/blazeface": "0.0.5",
+    "@tensorflow-models/blazeface": "0.0.7",
     "@tensorflow/tfjs": "^2.4.0",
     "@tensorflow/tfjs-backend-cpu": "^2.4.0",
     "@tensorflow/tfjs-backend-webgl": "^2.4.0",
